@@ -1,16 +1,15 @@
 # 🧰 Simple Puppeteer TypeScript Starter | 2022
 
-> We talk about a lot of **advanced Node.js and TypeScript** concepts on [the blog](https://khalilstemmler.com), particularly focused around Domain-Driven Design and large-scale enterprise application patterns. However, I received a few emails from readers that were interested in seeing what a basic TypeScript starter project looks like. So I've put together just that.
+This template will quickly help us build a project using Puppeteer and TypeScript for data scraping in public pages.
 
 ### Features
 
 - Minimal
-- TypeScript v4
+- TypeScript V4
 - Testing with Jest
 - Linting with Eslint and Prettier
-- Pre-commit hooks with Husky
-- VS Code debugger scripts
 - Local development with Nodemon
+- IP Proxy
 
 ### Structure
 
