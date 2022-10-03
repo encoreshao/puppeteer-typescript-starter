@@ -1,4 +1,4 @@
-# 🧰 Simple Puppeteer TypeScript Starter | 2022
+# Simple Puppeteer TypeScript Starter | 2022
 
 This template will quickly help us build a project using Puppeteer and TypeScript for data scraping in public pages.
 
